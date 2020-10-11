@@ -27,6 +27,7 @@ This code is based on jupyter notebook. Python3 and Pyspark kernal is required w
 2. Pandas
 3. Seaborn
 4. Matplotlib
+
 ### Running<a name="running"></a>
 
 Click "run" button in jupyter notebook
@@ -40,6 +41,7 @@ There are three files in total.
 ## Results<a name="results"></a>
 
 Random Forest Classifier with accuracy 0.8709677419354839 and f1-score 0.8471630486237912 comes to the best fitted model.
+See more details of conclusions at [User's Churn Rate Prediction](https://medium.com/@lorixlou/users-churn-rate-prediction-problem-4b838ca433f7)
 
 ## Licensing, Authors, Acknowledgements<a name="license"></a>
 This code is run based on the data source: [Udacity](https://classroom.udacity.com/nanodegrees/nd025/)
