@@ -2,11 +2,17 @@
 ### Table of Contents
 
 [Introduction](#introduction)
+
 [Installation](#installation)
+
 [Pre-requirements](#requirement)
+
 [Running](#runnig)
+
 [Files Description](#filedescription)
+
 [Results](#results)
+
 [Licensing, Authors, and Acknowledgements](#license)
 
 ## Introduction <a name="introduction"></a>
